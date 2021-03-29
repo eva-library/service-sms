@@ -1,0 +1,8 @@
+requests
+pymysql
+flaskapp
+flask
+Flask
+gunicorn
+twilio
+pyyaml
