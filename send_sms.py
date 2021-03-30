@@ -1,3 +1,7 @@
+# put here your twilio configuration
+# sid, token and number that you can buy in https://www.twilio.com/
+# paste this info in the lines 11, 12, 19
+
 import os
 from twilio.rest import Client
 from flask import Flask, request
