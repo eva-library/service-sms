@@ -29,13 +29,13 @@ Where:
 - 	[BODY]: Refers to the content of the message
 - 	[NUMERO]: Refers to the destination number
 
-Considerations when deploying GCP
+## Considerations when deploying GCP
 - 	To the main file you have to put main
 - 	You have to indicate the first function that should run
 - 	This function must be passed as a parameter self
 - 	You have to extend the app's permissions
 
-Permission extension
+## Permission extension
 - 	Go to the Google Cloud Console
 - 	Click the checkbox next to the role you want to grant access to.
 - 	Click Show dashboard in the upper right corner to bring up the Permissions tab
