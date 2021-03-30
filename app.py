@@ -38,7 +38,7 @@ def test_functions():
 
         #asunto = request.json['asunto']
         #body = request.json['body']
-        destinatario = request.json['text']
+        destinatario = request.json['numero']
         body = "body de prueba"
 
         requestService = sendsms(body, destinatario)
