@@ -44,4 +44,4 @@ Where:
 - 	Select the Cloud Functions function> Cloud Functions Invoker from the Select a function drop-down menu
 - 	Click Save
 
-
+*Components are not supported
